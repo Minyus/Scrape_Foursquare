@@ -1,4 +1,4 @@
-# Scrape_Foursquare
+# Scrape Foursquare
 
 Python code to scrape venue data from Foursquare:
 https://colab.research.google.com/github/Minyus/Scrape_Foursquare/blob/master/examples/Scrape_Foursquare.ipynb
